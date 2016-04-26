@@ -1,3 +1,3 @@
-publ0ic class Test{
+public class Test{
 
 }
