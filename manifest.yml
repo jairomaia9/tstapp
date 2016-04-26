@@ -3,4 +3,4 @@ applications:
   mem: 256M
   disk: 1024M
   instances: 1
- buildpack: java_buildpack
+  buildpack: java_buildpack
