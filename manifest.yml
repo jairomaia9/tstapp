@@ -1,0 +1,6 @@
+applications:
+- name: tstapp
+  mem: 256M
+  disk: 1024M
+  instances: 1
+ 
